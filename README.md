@@ -21,4 +21,4 @@ Olá! 👋
 
 
 
-https://badgen.net/badge/:subject/:status/:color?icon=github
+[ola]https://badgen.net/badge/:subject/:status/:color?icon=github
