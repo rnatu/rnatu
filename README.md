@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Olá! 👋
  
-Linkedin Badge Gmail Badge
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
