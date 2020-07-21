@@ -21,6 +21,6 @@ Olá! 👋
 
 
 
-![IMG](https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>?style=for-the-badge&logo=appveyor?style=flat-square&logo=appveyor)
+![IMG](<img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square" alt="made with python">)
 
 
