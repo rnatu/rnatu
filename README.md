@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Olá! 👋
  
-https://img.shields.io/badge/INSTAGRAM-%40__rNatu-orange
+?style=for-the-badge&logo=appveyor
 
 
 
