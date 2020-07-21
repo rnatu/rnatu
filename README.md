@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Olá! 👋
  
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
+https://img.shields.io/badge/INSTAGRAM-%40__rNatu-orange
 
 
 
