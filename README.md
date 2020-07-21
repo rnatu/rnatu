@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 Olá! 👋
  
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
+
 
