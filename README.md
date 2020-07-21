@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Olá! 👋
  
-?style=for-the-badge&logo=appveyor
 
 
 
+
+https://badgen.net/badge/:subject/:status/:color?icon=github
