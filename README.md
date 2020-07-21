@@ -21,4 +21,4 @@ Olá! 👋
 
 
 
-![Foo](https://badgen.net/badge/:subject/:status/:color?icon=github)
+![F](https://badgen.net/badge/:subject/:status/:color?icon=github)
