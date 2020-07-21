@@ -23,4 +23,4 @@ Olá! 👋
 
 ![F](https://badgen.net/badge/:subject/:status/:color?icon=github)
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://badgen.net/badge/:subject/:status/:color?icon=github)
