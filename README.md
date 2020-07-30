@@ -5,8 +5,8 @@
 
  **Conteúdo do curso**
 
-<div>
-<table style="border: 1px solid">
+<div style="border: 1px solid">
+<table>
 <tr>
 <td>
 ✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)<br>
