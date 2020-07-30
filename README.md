@@ -11,12 +11,9 @@
 
 ✔ Webpack e Babel (Front-end)
 
-✔ Sistema de login com session
-
-✔ Sistema de login com JWT
-
-✔ Criação de um projeto com arquitetura MVC
-
+✔ Sistema de login com session<br>
+✔ Sistema de login com JWT<br>
+✔ Criação de um projeto com arquitetura MVC<br>
 ✔ Configuração de um servidor Linux para Deploy (Ubuntu 
 Server)<br>
 ✔ Configurações de segurança para o servidor (SSH e TLS - Https)<br>
