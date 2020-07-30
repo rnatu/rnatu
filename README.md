@@ -1,9 +1,10 @@
-# Curso de JavaScript e TypeScript do básico ao avançado 2020
+<h1>Curso de JavaScript e TypeScript do básico ao avançado 2020</h1>
 
-## Javascript e TypeScript - front-end e back-end (Full Stack)
-## Node, Express, noSQL, React, hooks, Redux, Design Patterns<br>
+<h2>Javascript e TypeScript - front-end e back-end (Full Stack)
+Node, Express, noSQL, React, hooks, Redux, Design Patterns</h2>
+<br>
 
- **Conteúdo do curso**
+ <h3>**Conteúdo do curso**</h3>
 
 <div style="border: 1px solid">
 <table>
