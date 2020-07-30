@@ -2,7 +2,7 @@
 
 <h2>Javascript e TypeScript - front-end e back-end (Full Stack)<br>
 Node, Express, noSQL, React, hooks, Redux, Design Patterns</h2>
-
+<br>
 <h3>Conteúdo do curso</h3>
 
 <div style="border: 1px solid">
