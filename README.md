@@ -9,7 +9,7 @@ Node, Express, noSQL, React, hooks, Redux, Design Patterns</h2>
 <table>
 <tr>
 <td>
-✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)
+✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)<br>
 
 ✔ NodeJS, Express, MongoDB, Sequelize (Back-end)
 
