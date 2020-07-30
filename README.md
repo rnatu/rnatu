@@ -18,8 +18,8 @@
 ✔ Criação de um projeto com arquitetura MVC
 
 ✔ Configuração de um servidor Linux para Deploy (Ubuntu 
-Server)
-✔ Configurações de segurança para o servidor (SSH e TLS - Https)
+Server)<br>
+✔ Configurações de segurança para o servidor (SSH e TLS - Https)<br>
 ✔ Utilização de noSQL com mongoose (MongoDB)
 ✔ Utilização de SQL com sequelize (MySQL/MariaDB)
 Criação de API Rest para Back-end com Node + Express + Sequelize
