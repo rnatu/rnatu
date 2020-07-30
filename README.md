@@ -1,16 +1,15 @@
-<h1>Curso de JavaScript e TypeScript do básico ao avançado 2020</h1>
+# Curso de JavaScript e TypeScript do básico ao avançado 2020
 
-<h2>Javascript e TypeScript - front-end e back-end (Full Stack)
+<h2>Javascript e TypeScript - front-end e back-end (Full Stack)<br>
 Node, Express, noSQL, React, hooks, Redux, Design Patterns</h2>
-<br>
 
- <h3>**Conteúdo do curso**</h3>
+<h3>Conteúdo do curso</h3>
 
 <div style="border: 1px solid">
 <table>
 <tr>
 <td>
-✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)<br>
+✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)
 
 ✔ NodeJS, Express, MongoDB, Sequelize (Back-end)
 
