@@ -5,27 +5,51 @@
 
  **Conteúdo do curso**
 
+<div>
+<table style="border: 1px solid">
+<tr>
+<td>
 ✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)
 
 ✔ NodeJS, Express, MongoDB, Sequelize (Back-end)
 
 ✔ Webpack e Babel (Front-end)
 
-✔ Sistema de login com session<br>
-✔ Sistema de login com JWT<br>
-✔ Criação de um projeto com arquitetura MVC<br>
-✔ Configuração de um servidor Linux para Deploy (Ubuntu 
-Server)<br>
-✔ Configurações de segurança para o servidor (SSH e TLS - Https)<br>
+✔ Configuração de um servidor Linux para Deploy (Ubuntu Server)
+
 ✔ Utilização de noSQL com mongoose (MongoDB)
+
+✔ Criação de API Rest para Back-end com Node + Express + Sequelize
+
+✔ React JS (Avançado) com React Hooks + Redux com Redux Saga
+
+✔ Princípios da programação orientada a objetos
+
+✔ Testes automatizados com o Jest
+
+✔ Expressões Regulares (Bônus)
+</td>
+
+<td>
+✔  NodeJS, Express, MongoDB, Sequelize (Back-end)
+
+✔ Sistema de login com session
+
+✔ Criação de um projeto com arquitetura MVC
+
+✔ Configurações de segurança para o servidor (SSH e TLS - Https)
+
 ✔ Utilização de SQL com sequelize (MySQL/MariaDB)
-Criação de API Rest para Back-end com Node + Express + Sequelize
-React JS (Básico)
-React JS (Avançado) com React Hooks + Redux com Redux Saga
-TypeScript - um superset do JavaScript com tipagem estática
-Princípios da programação orientada a objetos
-Princípios S.O.L.I.D
-Testes automatizados com o Jest
-Curso com atualizações para 2020
-Expressões Regulares (Bônus)
-Padrões de projeto - Design Patterns (Bônus)
+
+✔ React JS (Básico)
+
+✔ TypeScript - um superset do JavaScript com tipagem estática
+
+✔ Princípios da programação orientada a objetos
+
+✔ Testes automatizados com o Jest
+
+✔ Expressões Regulares (Bônus)
+</td>
+</table>
+</div>
