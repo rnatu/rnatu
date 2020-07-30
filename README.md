@@ -9,7 +9,7 @@
 <table style="border: 1px solid">
 <tr>
 <td>
-✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)
+✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)<br>
 
 ✔ NodeJS, Express, MongoDB, Sequelize (Back-end)
 
