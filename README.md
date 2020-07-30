@@ -4,7 +4,7 @@
  
 Conteúdo do curso
 
-✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)
+ ✔  JavaScript Básico, Funcional e Orientado a Objetos (ES6+)
 
 ✔ NodeJS, Express, MongoDB, Sequelize (Back-end)
 
