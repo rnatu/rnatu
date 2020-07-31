@@ -30,7 +30,7 @@ Find me on:
     <img align="center" src="https://img.shields.io/twitter/url?color=%23E4405F&label=Instagram&logo=Instagram&logoColor=%23E4405F&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2F_rnatu%2F" style="max-width:100%;">
   </a>
   
-<a href="mailto:it-support@kth.se">Email us at it-support@kth.se</a>
+<a href="mailto:rnatu91@gmail.com">Email us</a>
 
 
 *A JavaScript lover, motivated by solve problems and create solutions!*
