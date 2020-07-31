@@ -33,6 +33,7 @@ Find me on:
 <a href="https://www.linkedin.com/in/renato-xavier-a34767165/">
     <img align="center" src="https://img.shields.io/twitter/url?color=%230077b5&label=LinkedIn&logo=linkedin&logoColor=%230077b5&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenato-xavier-a34767165" style="max-width:100%;">
   </a>
+
 <br>  
 <br>
 <br>
