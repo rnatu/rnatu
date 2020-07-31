@@ -1,5 +1,5 @@
 <h1 align="center"> Hi everyone! Renato Xavier here! ✌</g-emoji> </h1>
 <h3 align="center">🚀 Learning to JavaScript, Node, React and everthing about </h3>
 
-<div style="background: purple; width: 1000px; height: 10px; max-width:100%;">
-</div>
+
+<img src="https://i.dlpng.com/static/png/5501946-collection-of-free-lines-transparent-blue-download-on-ui-ex-blue-line-png-1000_300_preview.png" width="3000" height="30">
