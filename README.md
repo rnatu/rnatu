@@ -1,4 +1,4 @@
-  <img src="https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png" width="150">
+<img src="https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png" width="150">
 
 # Curso de JavaScript e TypeScript do básico ao avançado 2020
 
