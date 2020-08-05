@@ -16,7 +16,7 @@
 <ul>
 <li>I'm 29yo, from São Paulo - Brasil</li>
 <li>I love games, music, instruments, livestream, hardwares and Technology</li>
-<li>Graduating in Analysis and Systems Development</li>
+<li>Graduated in Analysis and Systems Development</li>
 <li>Focused in JS, Node.JS and ReactJS (React Native coming soon)</li>
 </ul>
 <br>
