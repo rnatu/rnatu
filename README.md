@@ -6,15 +6,14 @@
 <h3>Stacks:</h3>
 <ul>
 <li>JavaScript</li>
-<li>NodeJS & Express</li>
+<li>HTML & CSS</li>    
 <li>ReactJS</li>
-<li>HTML & CSS</li>
-<li>Bootstrap</li>
+<li>NodeJS & Express</li>
 </ul>
 
 <h3>About me:</h3>
 <ul>
-<li>I'm 29yo, from São Paulo - Brasil</li>
+<li>I'm 30yo, from São Paulo - Brasil</li>
 <li>I love games, music, instruments, livestream, hardwares and Technology</li>
 <li>Graduated in Analysis and Systems Development</li>
 <li>Focused on ReactJS, NodeJS and TypeScript - (React Native coming soon)</li>
