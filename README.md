@@ -7,7 +7,7 @@
 <ul>
 <li>JavaScript</li>
 <li>HTML & CSS</li>    
-<li>ReactJS</li>
+<li>ReactJS & NextJS</li>
 <li>TypeScript</li>
 <li>NodeJS & Express</li>
 </ul>
