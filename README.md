@@ -5,8 +5,8 @@
 
 <h3>Stacks:</h3>
 <ul>
-<li>JavaScript</li>
 <li>HTML & CSS</li>    
+<li>JavaScript</li>
 <li>ReactJS & NextJS</li>
 <li>TypeScript</li>
 </ul>
