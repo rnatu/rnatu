@@ -9,7 +9,6 @@
 <li>HTML & CSS</li>    
 <li>ReactJS & NextJS</li>
 <li>TypeScript</li>
-<li>NodeJS & Express</li>
 </ul>
 
 <h3>About me:</h3>
