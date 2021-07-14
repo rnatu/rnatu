@@ -3,7 +3,7 @@
 
 <img src="https://i.dlpng.com/static/png/5501946-collection-of-free-lines-transparent-blue-download-on-ui-ex-blue-line-png-1000_300_preview.png" width="3000" height="30">
 
-<h3>Stacks:</h3>
+<h3>Techs:</h3>
 <ul>
 <li>HTML & CSS</li>    
 <li>JavaScript</li>
