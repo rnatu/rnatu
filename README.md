@@ -9,7 +9,7 @@
 <li>JavaScript</li>
 <li>ReactJS & NextJS</li>
 <li>TypeScript</li>
-<li>Jest</li>
+<li>Jest / Testing Library</li>
 </ul>
 
 <h3>About me:</h3>
