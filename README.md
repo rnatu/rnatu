@@ -14,7 +14,7 @@
 
 <h3>About me:</h3>
 <ul>
-<li>I'm 31yo, from São Paulo - Brasil</li>
+<li>I'm 32yo, from São Paulo - Brasil</li>
 <li>I love games, music, instruments, livestream, hardwares and Technology</li>
 <li>Graduated in Analysis and Systems Development</li>
 <li>Focused on ReactJS, Next and TypeScript - (React Native coming soon)</li>
