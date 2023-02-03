@@ -1,7 +1,7 @@
 <h1 align="center"> Hi everyone! 🖖 I'm Renato Xavier 😃</g-emoji> </h1>
 <h3 align="center">🚀 Practicing JavaScript, React, Next, TypeScript and everthing about </h3>
 
-<img src="https://i.dlpng.com/static/png/5501946-collection-of-free-lines-transparent-blue-download-on-ui-ex-blue-line-png-1000_300_preview.png" width="3000" height="30">
+<img src="https://icones.pro/wp-content/uploads/2021/04/icone-trait-bleu.png" width="3000" height="30">
 
 <h3>Techs:</h3>
 <ul>
